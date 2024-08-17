@@ -1,0 +1,8 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fputs"  # as it would appear on PyPI
+version = "1.0.0"
+description="sample fputs utility"  # Optional
